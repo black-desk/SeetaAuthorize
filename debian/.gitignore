@@ -1,0 +1,8 @@
+/.debhelper/
+/debhelper-build-stamp
+/seetaface-authorise-dev/
+/seetaface-authorise1/
+/tmp/
+/files
+/seetaface-authorise-dev.substvars
+/seetaface-authorise1.substvars
