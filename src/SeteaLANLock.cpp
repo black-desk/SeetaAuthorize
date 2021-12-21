@@ -7,16 +7,16 @@
 #include <mutex>
 #include <string>
 
-#include "cstamodelfilestream.h"
+#include "hidden/SeetaLockFunction.h"
+#include "lock/cstamodelfilestream.h"
 #include "SeetaLANLock.h"
-#include "SeetaLockFunction.h"
 //#include <orz/ssl/aes.h>
 #include <orz/codec/base64.h>
 #include <orz/tools/timer.h>
 
 #include <queue>
 
-#include "error_code.h"
+#include "lock/error_code.h"
 
 #if _MSC_VER >= 1900
 #  include "stdio.h"

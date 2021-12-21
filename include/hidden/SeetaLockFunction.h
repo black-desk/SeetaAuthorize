@@ -7,6 +7,8 @@
 
 #include <string>
 
+#include "SeetaLANLock.h"
+
 struct SeetaLock_Function {
     int id;
     int serial_number = 0;

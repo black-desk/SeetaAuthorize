@@ -1,4 +1,4 @@
-#include "fast_encryptstream.h"
+#include "lock/fast_encryptstream.h"
 
 #include <orz/utils/log.h>
 
